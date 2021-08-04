@@ -2,6 +2,8 @@ package _01_shapes_original;
 
 import java.awt.Color;
 
+import javax.swing.JOptionPane;
+
 /*
  * This package contains several classes(Hexagon, Square, Triangle). This runner 
  * class creates an object of each and calls their methods. 
